@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+# Ignore PyCharm project files
+.idea/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore external libraries folder (if any)
+/external_libraries/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore images
+#*.png
