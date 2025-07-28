@@ -1,2 +1,8 @@
-# real_estate_ROI
-Real Estate ROI Calculator built with Python and Tkinter. This tool helps calculate the return on investment (ROI) for real estate properties by considering factors like price, rent, occupancy rate, interest rate, and loan duration. It also provides a graphical investment projection over 30 years.
+# Real Estate ROI Calculator 🏡📈
+
+This Python GUI calculates real estate investment returns, plots 30-year cash-flow charts, equity built, and loan balances.
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
